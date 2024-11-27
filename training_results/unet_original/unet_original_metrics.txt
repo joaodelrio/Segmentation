@@ -1,0 +1,10 @@
+Dice: 0.58384824
+F1: 0.5738467445539583
+Precision: 0.5931005490396716
+Recall: 0.662768840184086
+IoU: 0.46119992621700723
+
+
+Tempo do treino: 8 horas e 20 minutos
+Melhor modelo epoch = 58
+Metricas melhor modelo treino = dice_coef: 0.8754 - loss: 0.0739 - mean_io_u: 0.4939 - val_dice_coef: 0.7222 - val_loss: 0.1856 - val_mean_io_u: 0.4947

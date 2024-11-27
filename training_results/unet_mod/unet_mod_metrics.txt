@@ -1,0 +1,10 @@
+Dice Value: 0.5195025721755929
+Jaccard Value: 0.4808463680790317
+F1 Value: 0.6494210046958353
+Recall Value: 0.6843496036296555
+Precision Value: 0.6178847149384411
+
+
+Tempo do treino: 1 hora e 32 minutos
+Melhor modelo epoch = 112
+Metricas melhor modelo treino = dice_coef: 0.6672 - loss: 0.1994 - mean_io_u_1: 0.4932 - val_dice_coef: 0.6162 - val_loss: 0.2308 - val_mean_io_u_1: 0.4934
